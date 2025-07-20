@@ -1,6 +1,6 @@
 -----
 
-# **Keycloak & Spring Boot Microservices: Interview Summary**
+# **Keycloak & Spring Boot Microservices: Summary**
 
 **Core Concept:**
 Securing microservices involves centralizing authentication/authorization with an **Authorization Server** (Keycloak) and implementing **OAuth 2.0 / OpenID Connect (OIDC)** flows. The **API Gateway** acts as the primary enforcement point, validating tokens before forwarding requests to downstream **Resource Servers** (your microservices).
